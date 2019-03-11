@@ -15,5 +15,5 @@
 
 #define TA_CURRENT_TA_EXT_PROPERTIES \
     { "gp.ta.description", USER_TA_PROP_TYPE_STRING, \
-        "Sample sockets TA" }, \
+        "Azure IoT Edge HSM TA" }, \
     { "gp.ta.version", USER_TA_PROP_TYPE_U32, &(const uint32_t){ 0x0010 } }
